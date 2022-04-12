@@ -49,7 +49,7 @@ In the customer section of this project we have explored the following research 
 * 
 We have expressed the data in different ways, varying from plots to tables. With this research, we try to create a better overview of the customers shopping at H&M.
 
-# Personalised Fashion recommendation
+## Personalised Fashion recommendation
 In this chapter we will be using an item based collaborative filtering approach to reccomending items to users. The item reccomendations can be used to reccomend other items to users when they are shopping for products. The main idea is to find products that are frequently bought together.
 
 We first start by reducing the dataset even more. The current appoach of using cosine similarity could not be used on the intire dataset since the matrix would become to large to fit into memory. We reduced the dataset to only contain data after 09/01/2020 and selected the first 20 000 items that users bought in h&m stores. This does probably impact accuracy, since a lot of previous transactional data is not taken into account.  
