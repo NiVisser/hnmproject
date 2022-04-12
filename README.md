@@ -4,9 +4,9 @@ RUG Advanced Programming Project
 
 # How to run / install?
 To run the file go to a new folder and pull this git repo. Afterwards use the following commands to install requirements: 
-	 pip install requirements.txt
-   # or 
-   conda install requirements.txt
+
+		pip install requirements.txt
+
    
 
 Afterwards start up a jupyter notebook
