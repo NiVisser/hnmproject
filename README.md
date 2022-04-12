@@ -14,6 +14,9 @@ Alternatively (depending on what you use):
    	conda install requirements.txt
 
 Afterwards start up a jupyter notebook and start up Main notebook.ypynb.
+## Working on the project
+Working on the project went really well. We meeted in real life and online to decide on who did what and created research questions. We decided that everyone should use their own notebook to minimize merge errors. In the end we merged all notebooks together into a main notebook. 
+
 
 ## The research question
 We try to answer the following main research question:“Can we use the H&M dataset to explore data about its latest fashion trends and customer base?” This main research question is devided into 3 sub categories“:
