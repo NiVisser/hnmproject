@@ -3,9 +3,7 @@ RUG Advanced Programming Project
 
 
 # How to run / install?
-Download the following file and extract in this the github repo.
-
-	[H&M data source](https://drive.google.com/file/d/1IJ4uNW7_ugYUvMkT48EjEDZcbMTZaimE/view)
+Download the following file and extract in this the github repo. [H&M data source](https://drive.google.com/file/d/1IJ4uNW7_ugYUvMkT48EjEDZcbMTZaimE/view)
 
 Install requirements (python libraries) using:
 
