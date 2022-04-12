@@ -49,7 +49,7 @@ In the customer section of this project we have explored the following research 
 * How many people receive fashion news? 
 * What is the spread of fashion news in contrast to club member status? 
 * What is the relation between receiving fashion news and the customers age?
-* 
+
 We have expressed the data in different ways, varying from plots to tables. With this research, we try to create a better overview of the customers shopping at H&M.
 
 ## Personalised Fashion recommendation
