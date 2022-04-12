@@ -5,7 +5,7 @@ RUG Advanced Programming Project
 # How to run / install?
 Download the following file and extract in this the github repo.
 
-	https://drive.google.com/file/d/1IJ4uNW7_ugYUvMkT48EjEDZcbMTZaimE/view
+	[H&M data source](https://drive.google.com/file/d/1IJ4uNW7_ugYUvMkT48EjEDZcbMTZaimE/view)
 
 Install requirements (python libraries) using:
 
@@ -17,7 +17,7 @@ Alternatively (depending on what you use):
 
 Afterwards start up a jupyter notebook and start up Main notebook.ypynb.
 
-## Research question
+## The research question
 We try to answer the following main research question:“Can we use the H&M dataset to explore data about its latest fashion trends and customer base?” This main research question is devided into 3 sub categories“:
 
 * Sales --> What is popular
