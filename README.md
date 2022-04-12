@@ -3,13 +3,19 @@ RUG Advanced Programming Project
 
 
 # How to run / install?
-To run the file go to a new folder and pull this git repo. Afterwards use the following commands to install requirements: 
+Download the following file and extract in this the github repo.
 
-		pip install requirements.txt
+	https://drive.google.com/file/d/1IJ4uNW7_ugYUvMkT48EjEDZcbMTZaimE/view
 
-   
+Install requirements (python libraries) using:
 
-Afterwards start up a jupyter notebook
+	pip install requirements.txt
+
+Alternatively (depending on what you use):
+
+   	conda install requirements.txt
+
+Afterwards start up a jupyter notebook and start up Main notebook.ypynb.
 
 ## Research question
 We try to answer the following main research question:“Can we use the H&M dataset to explore data about its latest fashion trends and customer base?” This main research question is devided into 3 sub categories“:
